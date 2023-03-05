@@ -6,10 +6,6 @@ public class Main {
 
         Kim.koreaSubject("국어", 100, 5);
         Kim.setMathSubject("수학", 80, 10);
-            //3333
-        Kim.showscore();
-        ///sadasdsa
-
         Kim.showscore();
 
     }

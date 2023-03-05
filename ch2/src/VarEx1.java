@@ -1,5 +1,3 @@
-import javax.lang.model.util.AbstractElementVisitor14;
-
 class VarEx1 {
     public static void main(String[] args) {
         /*
@@ -26,6 +24,7 @@ class VarEx1 {
         String name = "Ja" + "va";
         String str = name + 8.0;
 
+        System.out.println(""+name);
         System.out.print(name);
         System.out.print(str);
         System.out.println(7 + " ");
