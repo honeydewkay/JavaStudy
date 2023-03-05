@@ -27,8 +27,12 @@ public class EX2 {
 
     public void showscore(){
         int total = korea.score + math.score;
+        System.out.println(studentName+"출력:"+total);
+    }
+
+    public void showID(){
         int IDTotal = korea.subjectID + math.subjectID;
-        System.out.println(studentName+"출력:"+total + " ID:" + IDTotal);
+        System.out.println(studentName+"출력:"+IDTotal);
     }
 
 }
