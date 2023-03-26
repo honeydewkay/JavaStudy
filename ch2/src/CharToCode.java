@@ -1,5 +1,9 @@
 public class CharToCode {
     public static void main(String[] args) {
+
+        /*
+        git test 주석입니다.
+         */
         /*
         char ch = 'A';
         int code = (int)ch;
@@ -18,3 +22,5 @@ public class CharToCode {
 
     }
 }
+
+
