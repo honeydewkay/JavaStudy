@@ -1,7 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-
+        int aa = 01;
+        System.out.println(aa);
         EX2 Kim = new EX2(100, "김현주"); //클래스 = EX2 ,
 
         Kim.koreaSubject("국어", 100, 5);
